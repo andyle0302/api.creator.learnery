@@ -100,7 +100,7 @@
     "@types/node": "^20.8.2",
     "@types/passport-jwt": "^3.0.10",
     "@types/request-ip": "^0.0.39",
-    "@types/supertest": "^2.0.13",
+    "@types/supertest": "^2.0.14",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "apollo-server-core": "^3.12.1",
